@@ -64,8 +64,8 @@ object Dependencies {
   val snakeyamlVersion = "1.33"
 
   // Versions for proto
-  val protocVersion = "3.19.2"
-  val protoVersion = "3.19.2"
+  val protocVersion = "3.21.7"
+  val protoVersion = "3.21.7"
   
   val commonsCompress = "org.apache.commons" % "commons-compress" % commonsCompressVersion
   val commonsCrypto = "org.apache.commons" % "commons-crypto" % commonsCryptoVersion excludeAll(
